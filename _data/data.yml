@@ -74,7 +74,7 @@ experiences:
         time: 2021 - 2022
         company: Shanghai Jiao Tong University
         details: |
-          Lumen detection based on in-vo and phantom images. YOLO-v3 is used
+          Lumen detection based on in-vivo and phantom images. YOLO-v3 is used
           as baseline network, a dual-input network CFDI is designed for domain
           feature extraction. Successfully improve detection results in images 
           with artifacts.
