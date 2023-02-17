@@ -86,7 +86,27 @@ experiences:
           datasets are collected for training. Models are expected to perform
           well in dataset of unseen domain.
 
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 publications:
     title: Publications
     intro: |
@@ -103,9 +123,10 @@ publications:
 
       - title: LTSP: long-term slice propagation for accurate airway segmentation
         link: "#"
-        authors: Yangqian Wu, Minghui Zhang, Weihao Yu, HaoZheng, Jiasheng Xu and Yun Gu
-        conference: International Conference on Information Processing in Computer-Assisted
-        Interventions (IPCAI) 2022
+        authors: Yangqian Wu, Minghui Zhang, Weihao Yu, HaoZheng, Jiasheng Xu and
+        Yun Gu
+        conference: International Conference on Information Processing in 
+        Computer-Assisted Interventions (IPCAI) 2022
 
 skills:
     title: Skills &amp; Proficiency
