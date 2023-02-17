@@ -77,28 +77,30 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Research on Airway Lumen Detection
+        time: 2021 - 2022
+        company: Shanghai Jiao Tong University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        Lumen detection based on in-vo and phantom images. YOLO-v3 is used as baseline network,
+        a dual-input network CFDI is designed for domain feature extraction. Successfully improve
+        detection results in images with artifacts.
+      - role: Research on Domain Generalization
+        time: 2022 - present
+        company: Shanghai Jiao Tong University
+        details: |
+        To improve the model in various dataset. Multi-center, multi-site datasets are collected for
+        training. Models are expected to perfoem well in dataset of unseen domain.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 # oss:
 #     title: OSS Contributions
