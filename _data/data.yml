@@ -82,7 +82,7 @@ experiences:
         time: 2022 - present
         company: Shanghai Jiao Tong University
         details: |
-          To improve the model in various dataset. Multi-center, multi-site 
+          To improve the model for various dataset. Multi-center, multi-site 
           datasets are collected for training. Models are expected to perform
           well in dataset of unseen domain.
 
