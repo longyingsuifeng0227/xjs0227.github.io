@@ -114,14 +114,14 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: CDFI: Cross Domain Feature Interaction for Robust Bronchi 
+      - title: CDFI:Cross Domain Feature Interaction for Robust Bronchi 
       Lumen Detection
         link: "#"
         authors: Jiasheng Xu, Tianyi Zhang, Yangqian Wu, Jie Yang, Guang-Zhong Yang,
         Yun Gu
         conference: International Conference on Robotics and Automation (ICRA) 2023
 
-      - title: LTSP: long-term slice propagation for accurate airway segmentation
+      - title: LTSP:long-term slice propagation for accurate airway segmentation
         link: "#"
         authors: Yangqian Wu, Minghui Zhang, Weihao Yu, HaoZheng, Jiasheng Xu and
         Yun Gu
