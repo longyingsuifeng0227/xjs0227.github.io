@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Xu Jiasheng
     tagline: Postgraduate
-    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: 2276028921@qq.com
@@ -20,14 +20,14 @@ sidebar:
     linkedin: alandoe
     xing: alandoe
     github: https://xjs0227.github.io/
-    telegram: # add your nickname without '@' sign
+    # telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
