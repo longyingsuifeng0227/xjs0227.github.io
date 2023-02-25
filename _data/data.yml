@@ -19,8 +19,8 @@ sidebar:
     website: xjs0227.github.io/ #do not add http://
     # linkedin: alandoe
     # xing: alandoe
+    website: blog.csdn.net/longying1999
     github: github.com/xjs0227
-    CSDN: blog.csdn.net/longying1999
     
     languages:
       title: Languages
@@ -71,14 +71,13 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Generation of film reviews with film themes
+      - role: Generation of Film Reviews
         time: 2019
         company: Shanghai Jiao Tong University
         details: |
           Based on the NLP method, a GRU recurrent neural network is constructed,
-          and the attention model is introduced. 12000 movie reviews with different
-          ratings of 20 movies crawled on Douban are encoded and trained as network
-          input to generate movie reviews.
+          to train on reviews crabed from douban. Reviews can be generated based
+          on film names and scores.
       - role: Research on Airway Lumen Detection
         time: 2021 - 2022
         company: Shanghai Jiao Tong University
