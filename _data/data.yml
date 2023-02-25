@@ -20,6 +20,7 @@ sidebar:
     # linkedin: alandoe
     # xing: alandoe
     github: github.com/xjs0227
+    CSDN: blog.csdn.net/longying1999
     
     languages:
       title: Languages
@@ -70,6 +71,14 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Generation of film reviews with film themes
+        time: 2019
+        company: Shanghai Jiao Tong University
+        details: |
+          Based on the NLP method, a GRU recurrent neural network is constructed,
+          and the attention model is introduced. 12000 movie reviews with different
+          ratings of 20 movies crawled on Douban are encoded and trained as network
+          input to generate movie reviews.
       - role: Research on Airway Lumen Detection
         time: 2021 - 2022
         company: Shanghai Jiao Tong University
@@ -85,6 +94,7 @@ experiences:
           To improve the model for various dataset. Multi-center, multi-site 
           datasets are collected for training. Models are expected to perform
           well in dataset of unseen domain.
+      
 
 publications:
     title: Publications
