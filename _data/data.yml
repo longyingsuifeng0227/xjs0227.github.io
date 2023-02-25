@@ -76,7 +76,7 @@ experiences:
         company: Shanghai Jiao Tong University
         details: |
           Based on the NLP method, a GRU recurrent neural network is constructed,
-          to train on reviews crabed from douban. Reviews can be generated based
+          to train on reviews crawled from douban. Reviews can be generated based
           on film names and scores.
       - role: Research on Airway Lumen Detection
         time: 2021 - 2022
