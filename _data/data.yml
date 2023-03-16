@@ -78,6 +78,13 @@ experiences:
           Based on the NLP method, a GRU recurrent neural network is constructed,
           to train on reviews crawled from douban. Reviews can be generated based
           on film names and scores.
+      - role: Research on Airway Segmentation
+        time: 2021
+        company: Shanghai Jiao Tong University
+        details: |
+          To solve the broken end of the 3D airway segmentation results. A LSTM 
+          module is inserted to the UNet structure to make full use of the continuity
+          information of airways. Great improvements for the end detection.
       - role: Research on Airway Lumen Detection
         time: 2021 - 2022
         company: Shanghai Jiao Tong University
@@ -87,7 +94,7 @@ experiences:
           feature extraction. Successfully improve detection results in images 
           with artifacts.
       - role: Research on Domain Generalization
-        time: 2022 - present
+        time: 2023 - present
         company: Shanghai Jiao Tong University
         details: |
           To improve the model for various dataset. Multi-center, multi-site 
