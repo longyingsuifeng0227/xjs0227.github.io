@@ -69,7 +69,7 @@ education:
           Courses including: Machine learning, Introduction of artificial inteligence
    
 
-experiences:
+projects:
     title: Experiences
     info:
       - role: Generation of Film Reviews
@@ -79,19 +79,19 @@ experiences:
           Based on the NLP method, a GRU recurrent neural network is constructed,
           to train on reviews crawled from douban. Reviews can be generated based
           on film names and scores.
+      - role: Prediction of Metro Flow
+        time: 2020
+        company: Summer Camp in Tsinghua University
+        details: |
+          Based on the passenger flow records of Shenzhen Metro, noise data is 
+          cleaned, machine learning methods and deep learning methods are applied 
+          for training and flow prediction.
 
 
 
 experiences:
     title: Researches
     info:
-      - role: Generation of Film Reviews
-        time: 2019
-        company: Shanghai Jiao Tong University
-        details: |
-          Based on the NLP method, a GRU recurrent neural network is constructed,
-          to train on reviews crawled from douban. Reviews can be generated based
-          on film names and scores.
       - role: Research on Airway Segmentation
         time: 2021
         company: Shanghai Jiao Tong University
