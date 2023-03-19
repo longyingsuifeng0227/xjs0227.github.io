@@ -59,7 +59,7 @@ education:
     info:
       - degree: MSc in Automation(CV)
         university: Shanghai Jiao Tong University
-        time: 2021 - present
+        time: 2021 - 2024
         details: |
         
       - degree: BSc in Automation(AI)
@@ -67,41 +67,31 @@ education:
         time: 2017 - 2021
         details: |
           Courses including: Machine learning, Introduction of artificial inteligence
-          
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Generation of Film Reviews
-        link:
-        tagline:  Based on the NLP method, a GRU recurrent neural network is constructed,
-                  to train on reviews crawled from douban. Reviews can be generated based
-                  on film names and scores.
 
-# projects:
-#     title: Experiences
-#     info:
-#       - role: Generation of Film Reviews
-#         time: 2019
-#         company: Shanghai Jiao Tong University
-#         details: |
-#           Based on the NLP method, a GRU recurrent neural network is constructed,
-#           to train on reviews crawled from douban. Reviews can be generated based
-#           on film names and scores.
-#       - role: Prediction of Metro Flow
-#         time: 2020
-#         company: Summer Camp in Tsinghua University
-#         details: |
-#           Based on the passenger flow records of Shenzhen Metro, noise data is 
-#           cleaned, machine learning methods and deep learning methods are applied 
-#           for training and flow prediction.
-          
 experiences:
     title: Researches
     info:
+      - role: Generation of Film Reviews
+        time: 2019
+        company: Shanghai Jiao Tong University
+        details: |
+          Based on the NLP method, a GRU recurrent neural network is constructed,
+          to train on reviews crawled from douban. Reviews can be generated based
+          on film names and scores.
+      - role: Auto-Control for Raspberry Pie Car
+        time: 2019
+        company: Undergraduate Innovation Program
+        details: |
+          Accomplish the control task of Raspberry Pie Car. Digital image processing
+          methods as well as automatic control principleare applied for the Line 
+          patrol and reversing tasks. 
+      - role: Prediction of Metro Flow
+        time: 2020
+        company: Summer Camp in Tsinghua University
+        details: |
+          Based on the passenger flow records of Shenzhen Metro, noise data is 
+          cleaned, machine learning methods and deep learning methods are applied 
+          for training and flow prediction.
       - role: Research on Airway Segmentation
         time: 2021
         company: Shanghai Jiao Tong University
