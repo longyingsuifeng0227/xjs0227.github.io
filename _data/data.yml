@@ -92,6 +92,13 @@ experiences:
           Based on the passenger flow records of Shenzhen Metro, noise data is 
           cleaned, machine learning methods and deep learning methods are applied 
           for training and flow prediction.
+      - role: Video Object Tracking
+        time: 2020
+        company: Shanghai Jiao Tong University
+        details: |
+          Based on the SiamFC fully convolutional network for object tracking. 
+          Training on the ILSVRC15 dataset and good tracking results on traditional
+          video tracking datasets such as VOT, ALOV, and OTB.
       - role: Research on Airway Segmentation
         time: 2021
         company: Shanghai Jiao Tong University
@@ -100,7 +107,7 @@ experiences:
           module is inserted to the UNet structure to make full use of the continuity
           information of airways. Great improvements for the end detection.
       - role: Research on Airway Lumen Detection
-        time: 2021 - 2022
+        time: 2022
         company: Shanghai Jiao Tong University
         details: |
           Lumen detection based on in-vivo and phantom images. YOLO-v3 is used
@@ -108,7 +115,7 @@ experiences:
           feature extraction. Successfully improve detection results in images 
           with artifacts.
       - role: Research on Domain Generalization
-        time: 2023 - present
+        time: 2023
         company: Shanghai Jiao Tong University
         details: |
           To improve the model for various dataset. Multi-center, multi-site 
