@@ -37,14 +37,20 @@ sidebar:
       info:
         - item: Basketball
           link:
+        
+        - item: Tennis
+          link:
 
         - item: Table tennis
           link:
-
+          
+        - item: Badminton
+          link:
+          
         - item: Music
           link:
           
-        - item: Movies
+        - item: Movie
           link:
 
 career-profile:
