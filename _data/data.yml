@@ -68,7 +68,6 @@ education:
         details: |
           Courses including: Machine learning, Introduction of artificial inteligence
    
-
 projects:
     title: Experiences
     info:
@@ -86,9 +85,7 @@ projects:
           Based on the passenger flow records of Shenzhen Metro, noise data is 
           cleaned, machine learning methods and deep learning methods are applied 
           for training and flow prediction.
-
-
-
+          
 experiences:
     title: Researches
     info:
