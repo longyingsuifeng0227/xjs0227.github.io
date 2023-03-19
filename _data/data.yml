@@ -50,9 +50,10 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I graduated from Shanghai Jiao Tong University in 2021. Now I am working
-      on computer version in medical images, for my master degree in PAMI 
-      lab in Shanghai Jiao Tong University.
+      I am Jiasheng Xu from Chengdu, Sichuan, graduated from Shanghai Jiao Tong University in 2021.
+      I join the AI programme in Automation and Zhiyuan Honor programme when I was an undergraduate. 
+      Now I am working on computer version in medical images, for my master degree in PAMI lab in 
+      Shanghai Jiao Tong University.
       
 education:
     title: Education
@@ -69,7 +70,7 @@ education:
           Courses including: Machine learning, Introduction of artificial inteligence
 
 experiences:
-    title: Researches
+    title: Experiences
     info:
       - role: Generation of Film Reviews
         time: 2019
