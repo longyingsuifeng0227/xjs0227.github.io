@@ -75,6 +75,17 @@ education:
         details: |
           Courses including: Machine learning, Introduction of artificial inteligence
 
+work: 
+   title: Experiences
+   info:
+      - role: Generation of Film Reviews
+        time: 2019
+        company: Shanghai Jiao Tong University
+        details: |
+          Based on the NLP method, a GRU recurrent neural network is constructed,
+          to train on reviews crawled from douban. Reviews can be generated based
+          on film names and scores.
+
 experiences:
     title: Experiences
     info:
