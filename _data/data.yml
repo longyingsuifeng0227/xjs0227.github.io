@@ -137,11 +137,9 @@ projects:
           (2)Digital People: explore the field of AIGC, generate virtual 
           character images, and apply them to popular tasks such as 
           virtual live broadcast, digital population broadcast advertising, etc.
-          
           a. Video-based Mouth Driver: Collect and process a large amount of data, 
-          apply Wav2Lip network to adjust training, and achieve good results.
-          Change the mouth shape of the digital person and generate a digital person video. 
-          
+          apply Wav2Lip network to adjust training, and achieve good results of replacing
+          the month shape by target audios.
           b.  Image-based Animation Generator: By applying techniques such as 3DMM model 
           coefficients and audio and video extraction, a single character image is created
           to drive the head movements and expressions of the character, and generate a digital human model.
