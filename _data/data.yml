@@ -76,7 +76,7 @@ education:
           Courses including: Machine learning, Introduction of artificial inteligence
 
 experiences:
-    title: Experiences
+    title: Projects
     info:
       - role: Generation of Film Reviews
         time: 2019
@@ -123,22 +123,25 @@ experiences:
           well in dataset of unseen domain.
 
 projects:
-    title: job
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Algorithm Intern
+        time: 2023
+        company: MeiTuan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-
+          Video Portrait Segmentation: Mainly aimed at segmenting half body 
+          portraits in short videos, using GAN networks for segmentation.The 
+          discriminator provides a judgment on the segmentation quality based 
+          on the segmentation results. 
+          Digital People: explore the field of AIGC, generate virtual 
+          character images, and apply them to popular tasks such as 
+          virtual live broadcast, digital population broadcast advertising, etc.
+          (1) Video-based Mouth Driver: Collect and process a large amount of data, 
+          apply Wav2Lip network to adjust training, and achieve good results.
+          Change the mouth shape of the digital person and generate a digital person video. 
+          (2) Image-based Animation Generator: By applying techniques such as 3DMM model 
+          coefficients and audio and video extraction, a single character image is created
+          to drive the head movements and expressions of the character, and generate a digital human model.
       
 
 publications:
