@@ -129,17 +129,20 @@ projects:
         time: 2023
         company: MeiTuan
         details: |
-          Video Portrait Segmentation: Mainly aimed at segmenting half body 
+          (1)Video Portrait Segmentation: Mainly aimed at segmenting half body 
           portraits in short videos, using GAN networks for segmentation.The 
           discriminator provides a judgment on the segmentation quality based 
           on the segmentation results. 
-          Digital People: explore the field of AIGC, generate virtual 
+          
+          (2)Digital People: explore the field of AIGC, generate virtual 
           character images, and apply them to popular tasks such as 
           virtual live broadcast, digital population broadcast advertising, etc.
-          (1) Video-based Mouth Driver: Collect and process a large amount of data, 
+          
+          a. Video-based Mouth Driver: Collect and process a large amount of data, 
           apply Wav2Lip network to adjust training, and achieve good results.
           Change the mouth shape of the digital person and generate a digital person video. 
-          (2) Image-based Animation Generator: By applying techniques such as 3DMM model 
+          
+          b.  Image-based Animation Generator: By applying techniques such as 3DMM model 
           coefficients and audio and video extraction, a single character image is created
           to drive the head movements and expressions of the character, and generate a digital human model.
       
