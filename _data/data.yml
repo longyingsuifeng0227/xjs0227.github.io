@@ -127,7 +127,7 @@ projects:
     info:
       - role: Algorithm Intern
         time: 2023
-        company: MeiTuan
+        company: Meituan
         details: |
           (1)Video Portrait Segmentation: Mainly aimed at segmenting half body 
           portraits in short videos, using GAN networks for segmentation.The 
