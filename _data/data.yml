@@ -144,16 +144,6 @@ projects:
           coefficients and audio and video extraction, a single character image is created
           to drive the head movements and expressions of the character, and generate a digital human model.
 
-certifications:
-      title: Campus Life
-      list:
-        - name: Student Union Officer
-          start: 2018
-          end: 2020
-          organization: SEIEE
-          details: |
-            Details about cert. 
-
       
 publications:
     title: Publications
@@ -167,6 +157,13 @@ publications:
         link: "#"
         authors: Yangqian Wu, Minghui Zhang, Weihao Yu, HaoZheng, Jiasheng Xu and Yun Gu
         conference: International Conference on Information Processing in Computer-Assisted Interventions (IPCAI) 2022
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
 skills:
     title: Skills &amp; Proficiency
