@@ -164,6 +164,10 @@ oss:
       You can list your open source software contributions in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Student Union Officer
+        link: "#"
+        tagline: "Organize activities for international students at overseas centers"
 
 skills:
     title: Skills &amp; Proficiency
