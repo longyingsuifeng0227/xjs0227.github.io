@@ -99,6 +99,13 @@ experiences:
           Based on the passenger flow records of Shenzhen Metro, noise data is 
           cleaned, machine learning methods and deep learning methods are applied 
           for training and flow prediction.
+      - role: Data Analysis for Industrial Internet
+        time: 2020
+        company: Shanghai Jiao Tong University
+        details: |
+          Based on a small five blade wind turbine, conduct data analysis to determine
+          if the data is normal. Design a user interaction interface based on javascript
+          to display the analysis results.
       - role: Research on Airway Segmentation
         time: 2021
         company: Shanghai Jiao Tong University
@@ -166,7 +173,7 @@ oss:
         tagline: "Organize activities for international students at overseas centers"
       - title: Student Service Center Officer
         link: "#"
-        tagline: "Help to distribute holiday gifts, solve business problems such as medical insurance and loans"
+        tagline: "Help distribute holiday gifts, solve problems such as medical insurance and loans"
       - title: Shanghai Marathon Volunteer
         link: "#"
         tagline: "Help distribute supplies to ensure the normal operation of the competition"
