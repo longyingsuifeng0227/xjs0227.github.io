@@ -123,7 +123,7 @@ experiences:
           well in dataset of unseen domain.
 
 projects:
-    title: Experience
+    title: Work Experience
     info:
       - role: Algorithm Intern
         time: 2023
@@ -143,6 +143,17 @@ projects:
           Image-based Animation Generator: By applying techniques such as 3DMM model 
           coefficients and audio and video extraction, a single character image is created
           to drive the head movements and expressions of the character, and generate a digital human model.
+
+certifications:
+      title: Campus Life
+      list:
+        - name: Student Union Officer
+          start: 2018
+          end: 2020
+          organization: SEIEE
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+
       
 
 publications:
